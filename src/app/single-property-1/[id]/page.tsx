@@ -22,7 +22,7 @@ export default function Page({ params }: { params: { id: string } } ) {
                     <div className="col-lg-8 col-md-12 col-sm-12">
                         <div className="property_block_wrap style-2 p-4">
                             <div className="prt-detail-title-desc">
-                                <span className="label text-light bg-success">For Sale</span>
+                                <span className="label text-light bg-success">Not For Sale</span>
                                 <h3 className='mt-3'>{data?.name}</h3>
                                 <span><i className="lni-map-marker"></i> 778 Country St. Mohalla Shumali Chah Ghallo Wala, FL</span>
                                 <h3 className="prt-price-fix text-primary mt-2">$7,600<sub>/month</sub></h3>
