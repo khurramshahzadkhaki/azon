@@ -24,7 +24,7 @@ export default function Page({ params }: { params: { id: string } } ) {
                             <div className="prt-detail-title-desc">
                                 <span className="label text-light bg-success">For Sale</span>
                                 <h3 className='mt-3'>{data?.name}</h3>
-                                <span><i className="lni-map-marker"></i> 778 Country St. Panama City, FL</span>
+                                <span><i className="lni-map-marker"></i> 778 Country St. Mohalla Shumali Chah Ghallo Wala, FL</span>
                                 <h3 className="prt-price-fix text-primary mt-2">$7,600<sub>/month</sub></h3>
                                 <div className="list-fx-features">
                                     <div className="listing-card-info-icon">
